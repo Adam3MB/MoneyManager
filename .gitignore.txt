@@ -1,0 +1,7 @@
+MoneyManager1/#Rubbish
+MoneyManager1/bin
+MoneyManager1/lib
+MoneyManager1/ipch
+*.opensdf
+*.sdf
+*.suo
